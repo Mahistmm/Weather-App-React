@@ -1,0 +1,24 @@
+img{
+    height: 70px;
+    width: 70px;
+    padding-bottom: 20px;
+
+}
+
+.input{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #ffe0e0;
+}
+
+.inputbox{
+    text-align: center;
+    padding: 40px 100px;
+    background-color: white;
+    border-radius: 10px;  
+}
+
+.inputbox > form > Button{
+    margin-top: 30px;
+}

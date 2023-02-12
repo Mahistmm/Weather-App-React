@@ -1,0 +1,21 @@
+img{
+    height: 70px;
+    width: 70px;
+    padding-bottom: 20px;
+  
+}
+
+.result{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #ffe0e0;
+}
+
+.resultbox{
+    text-align: center;
+    padding: 20px 60px;
+    background-color: rgb(148, 188, 212);
+    border-radius: 10px;  
+}
+
